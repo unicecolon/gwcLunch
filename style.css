@@ -1,0 +1,21 @@
+div{
+    border: solid 2px black;
+    margin: 10px;
+    text-align: center;
+    width: 20%;
+}
+
+body{
+    display: flex;
+    align-content: space-around;
+    text-align: center;
+}
+
+#title{
+    position: fixed;
+}
+
+#Image{
+    width: 250px;
+    height: 200px;
+}
